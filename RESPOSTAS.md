@@ -4,8 +4,8 @@
 
 | Papel | Nome completo | Usuário do GitHub |
 |---|---|---|
-| Integrante 1 (dono do fork) | | |
-| Integrante 2 (colaborador) | | |
+| Integrante 1 (dono do fork) | Rubens Sousa | rscr-jpg |
+| Integrante 2 (colaborador) | João Paulo do Nascimento | JP2311 |
 
 ## Explicação da solução
 
