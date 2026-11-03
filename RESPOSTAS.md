@@ -95,3 +95,4 @@ Saída de `pontocerto.c`:
 300
 ```
 
+Revisado por João Paulo do Nascimento
